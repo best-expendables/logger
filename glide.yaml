@@ -1,0 +1,6 @@
+package: bitbucket.org/snapmartinc/logger
+import:
+- package: bitbucket.org/snapmartinc/trace
+  version: ">=1.2, <3"
+- package: github.com/sirupsen/logrus
+  version: ^1.0.0
