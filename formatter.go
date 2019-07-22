@@ -8,7 +8,6 @@ import (
 	"context"
 
 	"bitbucket.org/snapmartinc/trace"
-	"bitbucket.org/snapmartinc/user-service-client"
 	"github.com/sirupsen/logrus"
 )
 

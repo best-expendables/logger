@@ -10,7 +10,6 @@ import (
 	"reflect"
 
 	"bitbucket.org/snapmartinc/trace"
-	"bitbucket.org/snapmartinc/user-service-client"
 )
 
 // flag -race required

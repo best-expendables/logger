@@ -5,7 +5,6 @@ import (
 
 	"bitbucket.org/snapmartinc/logger"
 	"bitbucket.org/snapmartinc/trace"
-	"bitbucket.org/snapmartinc/user-service-client"
 )
 
 func main() {
