@@ -3,10 +3,10 @@ package benchmark
 import (
 	"bytes"
 	"context"
+	"logger"
 	"net/http"
 	"testing"
 
-	"bitbucket.org/snapmartinc/logger"
 )
 
 type (

@@ -1,6 +1,7 @@
 package logger
 
 import (
+	userclient "bitbucket.org/snapmartinc/user-service-client"
 	"encoding/json"
 	"fmt"
 	"time"

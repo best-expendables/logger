@@ -1,6 +1,6 @@
 package logmock
 
-import "bitbucket.org/snapmartinc/logger"
+import "logger"
 
 var _ = &Entry{}
 
