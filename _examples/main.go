@@ -3,8 +3,8 @@ package main
 import (
 	"context"
 
-	"bitbucket.org/snapmartinc/logger"
-	"bitbucket.org/snapmartinc/trace"
+	"github.com/best-expendables/logger"
+	"github.com/best-expendables/trace"
 )
 
 func main() {

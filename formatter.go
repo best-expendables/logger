@@ -1,14 +1,14 @@
 package logger
 
 import (
-	userclient "bitbucket.org/snapmartinc/user-service-client"
+	userclient "github.com/best-expendables/user-service-client"
 	"encoding/json"
 	"fmt"
 	"time"
 
 	"context"
 
-	"bitbucket.org/snapmartinc/trace"
+	"github.com/best-expendables/trace"
 	"github.com/sirupsen/logrus"
 )
 

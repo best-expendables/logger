@@ -1,6 +1,6 @@
-package: bitbucket.org/snapmartinc/logger
+package: github.com/best-expendables/logger
 import:
-- package: bitbucket.org/snapmartinc/trace
+- package: github.com/best-expendables/trace
   version: ">=1.2, <3"
 - package: github.com/sirupsen/logrus
   version: ^1.0.0

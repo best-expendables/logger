@@ -3,7 +3,7 @@
 ### Install
 ```yaml
 import:
-- package: bitbucket.org/snapmartinc/logger
+- package: github.com/best-expendables/logger
   version: x.x.x
 ```
 
@@ -36,7 +36,7 @@ DebugLevel
 	package main
     
     import (
-        "bitbucket.org/snapmartinc/logger"
+        "github.com/best-expendables/logger"
     	"context"
     )
     
@@ -65,7 +65,7 @@ DebugLevel
      package main
      
      import (
-     	"bitbucket.org/snapmartinc/logger"
+     	"github.com/best-expendables/logger"
      	"context"
      )
      
@@ -93,7 +93,7 @@ DebugLevel
 	package main
     
     import (
-    	"bitbucket.org/snapmartinc/logger"
+    	"github.com/best-expendables/logger"
     )
     
     func main() {
